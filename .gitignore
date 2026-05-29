@@ -1,0 +1,5 @@
+# 敏感信息（勿提交到远程）
+**/账号密码.md
+
+# Obsidian 本地工作区状态（可选，减少冲突）
+.obsidian/workspace.json
