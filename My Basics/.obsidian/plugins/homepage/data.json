@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "00-Dashboard/Home.md",
+      "value": "00-工作台/首页.md",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all",

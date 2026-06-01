@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard/Home.md",
+                "file": "03-知识库/读书/📖点这里新建读书笔记.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📖点这里新建读书笔记"
+            }
+          },
+          {
+            "id": "61d400db745d4729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-知识库/读书/📖点这里新建读书笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "📖点这里新建读书笔记"
+            }
+          },
+          {
+            "id": "861a8944c16ed728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-知识库/读书/BOOK-小岛经济学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOOK-小岛经济学"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,8 +200,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -184,6 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -194,43 +224,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a07325cbc9097ae",
+  "active": "861a8944c16ed728",
   "lastOpenFiles": [
-    "08-Daily/2026-05-29.md",
-    "08-Daily/2026-05-27.md",
-    "08-Daily/2026-05-25.md",
-    "08-Daily/2026-05-26.md",
-    "08-Daily/2026-05-28.md",
-    "00-Dashboard/Home.md",
-    "02-Projects/西门子 RN DVP 工业边缘技术赋能营/账号密码.md",
-    "02-Projects/西门子 RN DVP 工业边缘技术赋能营/第一天.md",
-    "02-Projects/西门子 RN DVP 工业边缘技术赋能营/第二天.md",
-    "Attachments/README.md",
-    "欢迎.md",
-    "创建链接.md",
-    "README.md",
-    "Archive/Projects/README.md",
-    "Archive/Knowledge/README.md",
-    "Archive/Assets/README.md",
-    "Archive/README.md",
-    "Archive/Projects",
-    "Archive/Knowledge",
-    "Archive/Assets",
-    "Archive",
-    "Attachments/pdfs",
-    "Attachments/images",
-    "Attachments",
-    "08-Daily/Reviews/README.md",
-    "08-Daily/README.md",
-    "08-Daily/Reviews",
-    "08-Daily",
-    "07-Templates/Weekly Review Template.md",
-    "07-Templates/Thinking Template.md",
-    "07-Templates/README.md",
-    "07-Templates/Project Template.md",
-    "07-Templates/Knowledge Template.md",
-    "07-Templates/Daily Note Template.md",
-    "07-Templates",
-    "06-AI-System/Workflows/AI-工作流索引.md"
+    "03-知识库/读书/未命名.md",
+    "03-知识库/读书/BOOK-小岛经济学.md",
+    "03-知识库/读书/BOOK-示例.md",
+    "03-知识库/读书/BOOK-思考快与慢.md",
+    "03-知识库/读书/📖点这里新建读书笔记.md",
+    "03-知识库/读书/说明.md",
+    "说明.md",
+    "未命名 1.md",
+    "未命名.md",
+    "07-模板/读书笔记-核心版.md",
+    "07-模板/读书笔记-简易版.md",
+    "07-模板/读书笔记模板.md",
+    "00-工作台/首页.md",
+    "07-模板/新建触动笔记.md",
+    "07-模板/新建读书笔记.md",
+    "00-工作台/读书看板.md",
+    "00-工作台/快捷按钮.md",
+    "03-知识库/说明.md",
+    "00-Dashboard/读书看板.md",
+    "00-工作台/人生主线.md",
+    "06-AI系统/提示词/系统提示词.md",
+    "06-AI系统/提示词/提示词索引.md",
+    "00-工作台/说明.md",
+    "附件/说明.md",
+    "归档/说明.md",
+    "08-日记/复盘/说明.md",
+    "08-日记/复盘",
+    "08-日记/Reviews",
+    "08-日记",
+    "07-模板/脚本/new_insight.js",
+    "07-模板/脚本/new_book.js",
+    "07-模板/脚本",
+    "07-模板",
+    "06-AI系统/工作流",
+    "06-AI系统/提示词",
+    "06-AI系统"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "07-Templates",
+  "templates_folder": "07-模板",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
@@ -10,28 +10,40 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "08-Daily",
-      "template": "07-Templates/Daily Note Template.md"
+      "folder": "08-日记/复盘",
+      "template": "07-模板/每周复盘模板.md"
     },
     {
-      "folder": "02-Projects",
-      "template": "07-Templates/Project Template.md"
+      "folder": "08-日记",
+      "template": "07-模板/日记模板.md"
     },
     {
-      "folder": "03-Knowledge/Thinking",
-      "template": "07-Templates/Thinking Template.md"
+      "folder": "02-项目",
+      "template": "07-模板/项目模板.md"
     },
     {
-      "folder": "03-Knowledge",
-      "template": "07-Templates/Knowledge Template.md"
+      "folder": "03-知识库/读书",
+      "template": "07-模板/读书笔记-简易版.md"
     },
     {
-      "folder": "08-Daily/Reviews",
-      "template": "07-Templates/Weekly Review Template.md"
+      "folder": "03-知识库/触动",
+      "template": "07-模板/触动笔记模板.md"
+    },
+    {
+      "folder": "03-知识库/思考",
+      "template": "07-模板/思考笔记模板.md"
+    },
+    {
+      "folder": "03-知识库",
+      "template": "07-模板/知识笔记模板.md"
     }
   ],
+  "enable_file_templates": false,
+  "file_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": "",
-  "startup_templates": []
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": []
 }
